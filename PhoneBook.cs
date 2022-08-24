@@ -86,5 +86,14 @@ namespace ExceptionHw
             Console.WriteLine("name must be grather than 2 characters! ");
             return;
         }
+
+        public void View()
+        {
+            FileAction _ = new FileAction(_phoneBookName);
+            foreach (string contact in FileAction.Data)
+            {
+                Console.WriteLine(contact);
+            }
+        }
     }
 }
