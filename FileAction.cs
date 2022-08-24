@@ -15,6 +15,14 @@ namespace ExceptionHw
         {
             _path = path;
         }
+        public static void CreateFile(string file)
+        {
+            if (File.Exists(file))
+            {
+                Console.WriteLine("[warn] File already exists! ");
+            }
+            File.Create(file);
+        }
         static string[] ReadFile()
         {
             try
@@ -41,8 +49,8 @@ namespace ExceptionHw
                 using (StreamWriter writer = new StreamWriter(_path, true))
                 {
                     writer.WriteLine(data);
-                    Console.WriteLine("[+] All data was written successfully! ");
                 }
+                Console.WriteLine("[+] All data was written successfully! ");
             }
             catch(FileNotFoundException ex)
             {
