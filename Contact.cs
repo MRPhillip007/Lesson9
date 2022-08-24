@@ -10,7 +10,8 @@ namespace ExceptionHw
     {
         string _countryCode = "";
         public string Number { get => CreateNumber(_countryCode); }
-        public string User { get => CreateContact(); }
+        public string User { get { return CreateContact(); } }
+        public string CustomUser { get => GetCustomUser(); set => SetCustomUser(value, value, value); }
         Random random = new Random();
 
         string[] _names = new string[] {
@@ -39,6 +40,15 @@ namespace ExceptionHw
             int surnameIndex = random.Next(0, _surnames.Length);
 
             return _names[nameIndex] + " " + _surnames[surnameIndex];
+        }
+
+        string SetCustomUser(string name, string surname, string phone)
+        {
+            return name + " " + surname + ": " + phone;
+        }
+        string GetCustomUser()
+        {
+            return CustomUser;
         }
     }
 }
