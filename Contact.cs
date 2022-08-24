@@ -22,7 +22,7 @@ namespace ExceptionHw
         };
 
 
-        public Contact(string countryCode)
+        public Contact(string countryCode = "380")
         {
             _countryCode = countryCode;
         }
