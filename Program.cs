@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using ExceptionHw;
+
+Contact contact = new Contact("380");
+Console.WriteLine(contact.User + ": " + contact.Number);
