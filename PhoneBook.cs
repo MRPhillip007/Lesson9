@@ -85,8 +85,6 @@ namespace ExceptionHw
             }
             Console.WriteLine("name must be grather than 2 characters! ");
             return;
-            
-            
         }
     }
 }
