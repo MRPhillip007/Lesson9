@@ -1,4 +1,8 @@
 ﻿using ExceptionHw;
 
-PhoneBook mainBook = new PhoneBook("main.txt");
-mainBook.Create(4);
+//FileAction action = new FileAction("test.txt");
+//Console.WriteLine(FileAction.Data[1]);
+
+//PhoneBook mainBook = new PhoneBook("main.txt");
+//mainBook.SearchContact(name: "Ваня ");
+
