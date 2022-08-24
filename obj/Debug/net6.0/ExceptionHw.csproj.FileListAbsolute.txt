@@ -1,0 +1,15 @@
+C:\BettrootCourses\lesson09\HomeWork\ExceptionHw\bin\Debug\net6.0\ExceptionHw.exe
+C:\BettrootCourses\lesson09\HomeWork\ExceptionHw\bin\Debug\net6.0\ExceptionHw.deps.json
+C:\BettrootCourses\lesson09\HomeWork\ExceptionHw\bin\Debug\net6.0\ExceptionHw.runtimeconfig.json
+C:\BettrootCourses\lesson09\HomeWork\ExceptionHw\bin\Debug\net6.0\ExceptionHw.dll
+C:\BettrootCourses\lesson09\HomeWork\ExceptionHw\bin\Debug\net6.0\ExceptionHw.pdb
+C:\BettrootCourses\lesson09\HomeWork\ExceptionHw\obj\Debug\net6.0\ExceptionHw.csproj.AssemblyReference.cache
+C:\BettrootCourses\lesson09\HomeWork\ExceptionHw\obj\Debug\net6.0\ExceptionHw.GeneratedMSBuildEditorConfig.editorconfig
+C:\BettrootCourses\lesson09\HomeWork\ExceptionHw\obj\Debug\net6.0\ExceptionHw.AssemblyInfoInputs.cache
+C:\BettrootCourses\lesson09\HomeWork\ExceptionHw\obj\Debug\net6.0\ExceptionHw.AssemblyInfo.cs
+C:\BettrootCourses\lesson09\HomeWork\ExceptionHw\obj\Debug\net6.0\ExceptionHw.csproj.CoreCompileInputs.cache
+C:\BettrootCourses\lesson09\HomeWork\ExceptionHw\obj\Debug\net6.0\ExceptionHw.dll
+C:\BettrootCourses\lesson09\HomeWork\ExceptionHw\obj\Debug\net6.0\refint\ExceptionHw.dll
+C:\BettrootCourses\lesson09\HomeWork\ExceptionHw\obj\Debug\net6.0\ExceptionHw.pdb
+C:\BettrootCourses\lesson09\HomeWork\ExceptionHw\obj\Debug\net6.0\ExceptionHw.genruntimeconfig.cache
+C:\BettrootCourses\lesson09\HomeWork\ExceptionHw\obj\Debug\net6.0\ref\ExceptionHw.dll
