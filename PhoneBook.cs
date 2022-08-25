@@ -75,7 +75,7 @@ namespace ExceptionHw
                         FileAction.WriteToFile(customContact);
                         return;
                     }
-                    Console.WriteLine("Invalid phone number syntax. Try (380(##)-###-##-##)");
+                    Console.WriteLine("Invalid phone number syntax. Try (+380(##)-###-##-##)");
                     return;
 
                 }

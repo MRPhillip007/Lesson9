@@ -29,7 +29,7 @@ class Program
     {
         Console.WriteLine("");
         Console.WriteLine("<= Welcome to the PhoneBook program =>");
-        Console.WriteLine("create - view all contacts ");
+        Console.WriteLine("create - create contact ");
         Console.WriteLine("show - view all contacts ");
         Console.WriteLine("search - search for specific contact");
         Console.WriteLine("add - add new contact");
